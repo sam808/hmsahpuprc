@@ -1,0 +1,8 @@
+﻿Name: The HMSA Theme
+Version: 1.0.0
+Author: HPU Students IS 6120 - Spring 2015
+Tags: responsive, modern, modern iu, metro, metrostyle
+Description: This will be the new look and feel of the HMSA website
+Website: http://hmsa.com/
+Zones: Header, Navigation, Featured, BeforeMain, AsideFirst, Messages, BeforeContent, Content, AfterContent, AsideSecond, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, FooterQuadFourth, Footer
+BaseTheme: TheMetroTheme

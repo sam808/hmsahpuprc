@@ -1,0 +1,13 @@
+State: Running
+Themes: 
+Modules: 
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=hmsa-prc.cloudapp.net,443;Initial Catalog=HMSALive;Persist Security Info=True; User ID=sa;Password=hWK5OSxAe00r5hhqSqtm
+DataTablePrefix: null
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: 27237CFC2F928418F17834A257F6BB7F7EF286C7163019FE5A0968E10DDEEFA2
+HashAlgorithm: HMACSHA256
+HashKey: 7701C60CDC6E09E7243C1F7792E903BF968721686EB924BFB2EBD52617CFD7AA1C1402328D86DB26C9958494BE4408CEABE2791CE66D15E102EE7C15AAE5D75B

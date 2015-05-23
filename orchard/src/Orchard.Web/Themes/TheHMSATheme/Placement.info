@@ -1,0 +1,25 @@
+﻿<Placement>
+  <!-- Customize where the shapes are rendered -->
+  <Match Path="~/">
+    <Place Parts_Title="-"/>
+  </Match>
+  <Match ContentType="Page">
+    <Place Parts_Common_Metadata="-"/>
+  </Match>
+  <Match ContentType="Blog">
+    <Place Parts_Common_Metadata="-"/>
+  </Match>
+  <Match ContentType="LibraryPolicy">
+    <Place Parts_Common_Metadata="-"/>
+        <Match DisplayType="Summary">
+            <Place Parts_Common_Body_Summary="-"
+                   Parts_Comments_Count="-"
+                   Parts_Tags_ShowTags="-"
+                   Parts_Common_Metadata_Summary="-"
+                   Fields_Common_Text="-"
+                   Parts_Common_Metadata="-"
+                  Parts_TermPart="-"/>
+        </Match>
+  </Match>
+  
+</Placement>

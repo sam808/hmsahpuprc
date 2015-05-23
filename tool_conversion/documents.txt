@@ -1,0 +1,978 @@
+==========================
+
+[1,100].xml
+==========================
+Cytochrome p450 Genotyping; pel.ph.CYT.501
+  MM.02.004_Cytochrome_p450_Genotyping_040114.pdf
+  MM.02.004_Cytochrome_p450_Genotyping_040113.pdf
+  MM.02.004_Cytochrome_p450_Genotyping_102811.pdf
+Hematopoietic Stem-Cell Transplantation for Primary Amyloidosis; pel.aa.BCBS.8.01.421a
+  MM.07.019_Hematopoietic_Stem_Cell_Transplantation_for_Primary_Amyloidosis_032814.pdf
+  MM.07.019_Hematopoietic_Stem_Cell_Transplantation_for_Primary_Amyloidosis_042613.pdf
+  MM.07.019_Hematopoietic_Stem_Cell_Transplantation_for_Primary_Amyloidosis_042712.pdf
+  MM.07.019_Hematopoietic_Stem_Cell_Transplantation_for_Primary_Amyloidosis_082211.pdf
+Abstral; pel.ph.ABS.100x
+  CVS_Abstral_Prior_Auth_122812.pdf
+  CVS_Abstral_Prior_Auth_122812.pdf
+  CVS_Abstral_Prior_Auth_122812.pdf
+  CVS_Abstral_Prior_Auth_122812.pdf
+acetylcysteine; pel.ph.ACE.100x
+  CVS_Inhalation_Solutions_Mucolytics_Prior_Auth_101912.pdf
+==========================
+
+[2,100].xml
+==========================
+Hematopoietic Stem-Cell Transplantation for Hodgkin Lymphoma; pel.aa.BCBS.8.01.291
+  MM.07.015_Hematopoietic_Stem_Cell_Transplantation_for_Hodgkin_Lymphoma_022814.pdf
+  MM.07.015_Hematopoietic_Stem_Cell_Transplantation_for_Hodgkin_Lymphoma_032213.pdf
+  MM.07.015_Hematopoietic_Stem_Cell_Transplantation_for_Hodgkin_Lymphoma_022412.pdf
+Digital Breast Tomosynthesis; pel.aa.DIG.501
+  MM.05.012_Digital_Breast_Tomosynthesis_082214.pdf
+  MM.05.012_Digital_Breast_Tomosynthesis_062813.pdf
+==========================
+
+[3,100].xml
+==========================
+Progesterone Therapy as a Technique to Reduce Preterm Birth in High-Risk Pregnancies; pel.ph.PRO.501
+  MM.03.005_Progesterone_Therapy_as_a_Technique_to_Reduce_Preterm_Birth_in_High_Risk_Pregnancies_012414.pdf
+  MM.03.005_Progesterone_Therapy_as_a_Technique_to_Reduce_Preterm_Birth_in_High_Risk_Pregnancies_030113.pdf
+  MM.03.005_Progesterone_Therapy_as_a_Technique_to_Reduce_Preterm_Birth_in_High_Risk_Pregnancies_060112.pdf
+Intrastromal Corneal Ring Segments for Keratoconus; pel.aa.INT.551
+  MM.06.006_Intrastromal_Corneal_Ring_Segments_for_Keratoconus_022814.pdf
+  MM.06.006_Intrastromal_Corneal_Ring_Segments_for_Keratoconus_032213.pdf
+  MM.06.006_Intrastromal_Corneal_Ring_Segments_for_Keratoconus_030112.pdf
+  MM.06.006_Intrastromal_Corneal_Ring_Segments_for_Keratoconus_111101.pdf
+Hematopoietic Stem-Cell Transplantation for Chronic Lymphocytic Leukemia and Small Lymphocytic Lymphoma; pel.aa.BCBS.8.01.151
+  MM.07.011_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Lymphocytic_Leukemia_and_Small_Lymphocytic_Lymphoma_042514.pdf
+  MM.07.011_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Lymphocytic_Leukemia_and_Small_Lymphocytic_Lymphoma_080113.pdf
+  MM.07.011_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Lymphocytic_Leukemia_and_Small_Lymphocytic_Lymphoma_042712.pdf
+  MM.07.011_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Lymphocytic_Leukemia_and_Small_Lymphocytic_Lymphoma_072211.pdf
+Photochemotherapy; pel.ph.PHO.501
+  MM.02.015_Photochemotherapy_072514.pdf
+  MM.02.015_Photochemotherapy_050114.pdf
+  MM.02.015_Photochemotherapy_111612.pdf
+  MM.02.015_Photochemotherapy_121611.pdf
+Hematopoietic Stem-Cell Transplantation for Acute Myeloid Leukemia; pel.aa.BCBS.8.01.261
+  MM.07.008_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Myeloid_Leukemia_090114.pdf
+  MM.07.008_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Myeloid_Leukemiapost_092713.pdf
+  MM.07.008_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Myeloid_Leukemia_082412.pdf
+  MM.07.008_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Myeloid_Leukemia_102811.pdf
+==========================
+
+[4,100].xml
+==========================
+Adcirca; pel.ph.ADC.100x
+  CVS_Adcirca_Prior_Auth_090112.pdf
+  CVS_Adcirca_Prior_Auth_090112.pdf
+  CVS_Adcirca_Prior_Auth_090112.pdf
+  CVS_Adcirca_Prior_Auth_090112.pdf
+  CVS_Adcirca_Prior_Auth_Med_D_090112.pdf
+Allogeneic Hematopoietic Stem-Cell Transplantation for Genetic Diseases and Acquired Anemias; pel.aa.BCBS.8.02.22
+  MM.07.001_Allogeneic_Hematopoietic_Stem_Cell_Transplantation_for_Genetic_Diseases_and_Acquired_Anemias_102513.pdf
+  MM.07.001_Allogeneic_Hematopoietic_Stem_Cell_Transplantation_for_Genetic_Diseases_and_Acquired_Anemias_102612.pdf
+  MM.07.001_Allogeneic_Hematopoietic_SCT_for_Genetic_Diseases_and_Acquired_Anemias_102811.pdf
+Extracorporeal Membrane Oxygenation (ECMO); pel.aa.EXT.501
+  MM.12.006_Extracorporeal_Membrane_Oxygenation_(ECMO)_90_Day_Notice_110114.pdf
+  MM.12.006_Extracorporeal_Membrane_Oxygenation_ECMO_for_Neonates_090113.pdf
+  MM.12.006_Extracorporeal_Membrane_Oxygenation_ECMO_for_Neonates_062212.pdf
+Hematopoietic Stem-Cell Transplantation for Chronic Myelogenous Leukemia; pel.aa.BCBS.8.01.301
+  MM.07.012_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Myelogenous_Leukemia_022814.pdf
+  MM.07.012_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Myelogenous_Leukemia_070113.pdf
+  MM.07.012_Hematopoietic_Stem_Cell_Transplantation_for_Chronic_Myelogenous_Leukemia_042712.pdf
+Measurement of Lipoprotein-Associated Phospholipase A2 (Lp-PLA2) in the Assessment of Cardiovascular Risk; pel.aa.MEA.501
+  MM.02.018_Measurement_of_Lipoprotein_Associated_Phospholipase_A2_(Lp_PLA2)_in_the_Assessment_of_Cardiovascular_Risk_052314.pdf
+  MM.02.018_Measurement_of_Lipoprotein_Associated_Phospholipase_A2_(Lp_PLA2)_In_The_Assessment_of_Cardiovascular_Risk_052413.pdf
+  MM.02.018_Measurement_of_Lipoprotein_Associated_Phospholipase_A2_(Lp_PLA2)_In_The_Assessment_of_Cardiovascular_Risk_100112.pdf
+==========================
+
+[5,100].xml
+==========================
+Heart/Lung Transplant; pel.aa.BCBS.7.03.081
+  MM.07.006_Heart_Lung_Transplant_060114.pdf
+  MM.07.006_Heart_Lung_Transplant_080113.pdf
+  MM.07.006_Heart_Lung_Transplant_022412.pdf
+Oxygen and Oxygen Equipment; pel.aa.OXY.651
+  MM.01.008_Oxygen_and_Oxygen_Equipment_052314.pdf
+  MM.01.008_Oxygen_and_Oxygen_Equipment_040114.pdf
+  MM.01.008_Oxygen_and_Oxygen_Equipment_090113.pdf
+  MM.01.008_Oxygen_and_Oxygen_Equipment_090112.pdf
+  MM.01.008_Oxygen_and_Oxygen_Equipment_121611.pdf
+Azasan; pel.ph.AZA.100x
+  CVS_Immunosuppressant_Agents_Prior_Auth_Med_D.pdf
+Continuous Glucose Monitoring System; pel.aa.CON.701
+  MM.02.003_Glucose_Monitoring_of_Interstitial_Fluid_050114.pdf
+  MM.02.003_Glucose_Monitoring_of_Interstitial_Fluid_052512.pdf
+==========================
+
+[6,100].xml
+==========================
+Preimplantation Genetic Diagnosis  (PGD); pel.aa.PRE.901
+  MM.03.003_Preimplantation_Genetic_Diagnosis_(PGD)_082214.pdf
+  MM.03.003_Preimplantation_Genetic_Diagnosis_PGD_092713.pdf
+  MM.03.003_Preimplantation_Genetic_Diagnosis_PGD_092812.pdf
+  MM.03.003_Preimplantation_Genetic_Diagnosis_PGD_092311.pdf
+Axert; pel.ph.AXE.100x
+  CVS_Axert_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Axert_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Axert_Post_Limit_Prior_Auth_122812.pdf
+Immune Globulin Therapy; pel.aa.INT.701
+  MM.04.015_Immune_Globulin_Therapy_030114.pdf
+  MM.04.015_Immune_Globulin_Therapy_020113.pdf
+  MM.04.015_Immune_Globulin_Therapy_082611.pdf
+Spinal Interventional Pain Management and Lumbar Spine Surgery; pel.aa.SPI.601
+  MM.06.024_Spinal_Interventional_Pain_Management_and_Lumbar_Spine_Surgery_082214.pdf
+  MM.06.024_Spinal_Interventional_Pain_Management_and_Lumbar_Spine_Surgery_070114.pdf
+  MM.05.013_Spinal_Interventional_Pain_Management_and_Lumbar_Spine_Surgery_010114.pdf
+Hematopoietic Stem-Cell Transplantation for Non-Hodgkin Lymphomas; pel.aa.BCBS.8.01.201
+  MM.07.018_Hematopoietic_Stem_Cell_Transplantation_for_Non_Hodgkin_Lymphomas_032814.pdf
+  MM.07.018_Hematopoietic_Stem_Cell_Transplantation_for_Non_Hodgkin_Lymphomas_042613.pdf
+  MM.07.018_Hematopoietic_Stem_Cell_Transplantation_for_Non_Hodgkin_Lymphomas_042712.pdf
+  MM.07.018_Hematopoietic_Stem_Cell_Transplantation_for_Non_Hodgkin_Lymphomas_120111.pdf
+Androderm; pel.ph.AND.100x
+  CVS_Testosterone_Topical_Buccal_Products_Prior_Auth_Med_D.pdf
+Vectibix (Panitumumab); pel.aa.VEC.500x
+  MM.04.026_Panitumumab_(Vectibix)_080114.pdf
+  MM.04.026_Panitumumab_(Vectibix)_102513.pdf
+  MM.04.026_Panitumumab_Vectibix_010113.pdf
+  MM.04.026_Panitumumab_(Vectibix)_082611.pdf
+==========================
+
+[7,100].xml
+==========================
+Bone (Mineral) Density Studies; pel.aa.BON.501
+  MM.05.002_Bone_Mineral_Density_Studies_030114.pdf
+  MM.05.002_Bone_Mineral_Density_Studies_040113.pdf
+  MM.05.002_Bone_Mineral_Density_Studies_040112.pdf
+Brachytherapy, Intravascular - ARCHIVED; pel.aa.INT.601
+  MM.05.003_Brachytherapy_Intravascular_092812_ARCHIVED_POLICY.pdf
+  MM.05.003_Brachytherapy_Intravascular_072211.pdf
+Arcalyst; pel.ph.ARC.100x
+  CVS_Arcalyst_Prior_Auth_Med_D.pdf
+Radiofrequency Ablation of Miscellaneous Solid Tumors Excluding Liver Tumors; pel.aa.RAD.652
+  MM.06.020_Radiofrequency_Ablation_of_Miscellaneous_Solid_Tumors_Excluding_Liver_Tumors_082214.pdf
+  MM.06.020_Radiofrequency_Ablation_of_Miscellaneous_Solid_Tumors_Excluding_Liver_Tumors_092713.pdf
+  MM.06.020_Radiofrequency_Ablation_of_Miscellaneous_Solid_Tumors_Excluding_Liver_Tumors_010113.pdf
+Stereotactic Radiosurgery and  Stereotactic Body Radiation Therapy; pel.aa.STE.601
+  MM.05.008_Stereotactic_Radiosurgery_and_Stereotactic_Body_Radiation_Therapy_040114.pdf
+  MM.05.008_Stereotactic_Radiosurgery_and_Stereotactic_Body_Radiation_Therapy_030113.pdf
+  MM.05.008_Stereotactic_Radiosurgery_and_Stereotactic_Body_Radiation_Therapy_102811.pdf
+Reduction Mammaplasty; pel.ph.RED.501
+  MM.06.012_Reduction_Mammaplasty_012414.pdf
+  MM.06.012_Reduction_Mammaplasty_012513.pdf
+  MM.06.012_Reduction_Mammaplasty_060112.pdf
+==========================
+
+[8,100].xml
+==========================
+Home Total Parenteral Nutrition for Adults; pel.aa.HOM.901
+  MM.08.007_Home_Total_Parenteral_Nutrition_for_Adults_072514.pdf
+  MM.08.001_Home_Total_Parenteral_Nutrition_for_Adults_062813.pdf
+  MM.08.001_Home_Total_Parenteral_Nutrition_for_Adults_062212.pdf
+  MM.08.001_Home_Total_Parenteral_Nutrition_for_Adults_062411.pdf
+Multigene Expression Assay for Predicting Recurrence in Colon Cancer; pel.aa.MUL.100
+  MM.02.023_Multigene_Expression_Assay_for_Predicting_Recurrence_in_Colon_Cancer_060114.pdf
+Occupational Therapy; pel.aa.OCC.601
+  MM.09.003_Occupational_Therapy_90_Day_Notice_020115.pdf
+  MM.09.003_Occupational_Therapy_092713.pdf
+  MM.09.003_Occupational_Therapy_092812.pdf
+  MM.09.003_Occupational_Therapy_020112.pdf
+Remicade (Infliximab); pel.aa.REM.400x
+  MM.04.016_Remicade_(Infliximab)_092614.pdf
+  MM.04.016_Remicade_Infliximab_072613.pdf
+  MM.04.016_Infliximab_Remicade_120112.pdf
+==========================
+
+[9,100].xml
+==========================
+Colonoscopy; pel.aa.COL.301
+  MM.12.003_Colonoscopy_040114.pdf
+  MM.12.003_Colonoscopy_122112.pdf
+  MM.12.003_Colonoscopy_092311.pdf
+Revlimid (Lenalidomide); pel.ph.REV.550x
+  CVS_Revlimid_Prior_Auth_040112.pdf
+  CVS_Revlimid_Prior_Auth_Med_D_110212.pdf
+  MEDCO_Cancer_Agents_Revlimid_Summary_8.pdf
+Real-Time Intra-Fraction Motion Management During Radiation Therapy; pel.aa.REA.100
+  MM.05.011_Real_Time_Intra_Fraction_Motion_Management_During_Radiation_Therapy_082214.pdf
+  MM.05.011_Real_Time_Intra_Fraction_Target_Tracking_During_Radiation_Therapy_072613.pdf
+  MM.05.011_Real_Time_Intra_Fraction_Target_Tracking_During_Radiation_Therapy_020113.pdf
+Genetic Testing for Lynch Syndrome/Colorectal Cancer and Polyposis Syndromes; pel.aa.GEN.301
+  MM.02.007_Genetic_Testing_for_Lynch_Syndrome_Colorectal_Cancer_and_Polyposis_Syndromes_050114.pdf
+  MM.02.007_Genetic_Testing_for_Lynch_Syndrome_Colorectal_Cancer_and_Polyposis_Syndromes_072712.pdf
+  MM.02.007_Genetic_Testing_for_Lynch_Syndrome_Colorectal_Cancer_and_Polyposis_Syndromes_090111.pdf
+Amerge; pel.ph.AME.100x
+  CVS_Amerge_Imitrex_Maxalt_Zomig_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Amerge_Imitrex_Maxalt_Zomig_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Amerge_Imitrex_Maxalt_Zomig_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Amerge_Imitrex_Maxalt_Zomig_Post_Limit_Prior_Auth_122812.pdf
+Synagis (Palivizumab); pel.aa.SYN.500x
+  MM.04.025_Synagis_(Palivizumab)_082214.pdf
+  MM.04.025_Synagis_Palivizumab_082313.pdf
+  MM.04.025_Palivizumab_Synagis_081512.pdf
+  MM.04.025_Palivizumab_(Synagis)_082611.pdf
+==========================
+
+[10,100].xml
+==========================
+Hematopoietic Stem-Cell Transplantation in the Treatment of Germ-Cell Tumors; pel.aa.BCBS.8.01.351
+  MM.07.020_Hematopoietic_Stem_Cell_Transplantation_in_the_Treatment_of_Germ_Cell_Tumors_052314.pdf
+  MM.07.020_Hematopoietic_Stem_Cell_Transplantation_In_The_Treatment_of_Germ_Cell_Tumors_052413.pdf
+  MM.07.020_Hematopoietic_Stem_Cell_Transplantation_in_the_Treatment_of_Germ_Cell_Tumors_062212.pdf
+  MM.07.020_Hematopoietic_Stem_Cell_Transplantation_In_The_Treatment_of_Germ_Cell_Tumors_082611.pdf
+Androgel; pel.ph.AND.200x
+  CVS_Testosterone_Topical_Buccal_Products_Prior_Auth_Med_D.pdf
+Allogeneic Pancreas Transplant; pel.aa.BCBS.7.03.03
+  MM.07.002_Allogeneic_Pancreas_Transplant_032814.pdf
+  MM.07.002_Allogeneic_Pancreas_Transplant_090113.pdf
+  MM.07.002_Allogeneic_Pancreas_Transplant_042712.pdf
+Islet Transplantation; pel.aa.ISL.100
+  MM.07.027_Islet_Transplantation_070114.pdf
+Hematopoietic Stem-Cell Transplantation in the Treatment of Germ-Cell Tumors - OBSOLETE2; pel.aa.BCBS.8.01.35-Obsolete2
+Avonex; pel.ph.AVO.100x
+  CVS_Avonex_Prior_Auth_Med_D.pdf
+==========================
+
+[11,100].xml
+==========================
+Preventive Health Guidelines- Newborns and Children; pel.ph.PRE.521
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_90_Day_Notice_010115.pdf
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_050114.pdf
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_010114.pdf
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_050113.pdf
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_082412.pdf
+  MM.14.002_Preventive_Health_Guidelines_Newborns_and_Children_092311.pdf
+Zytiga - ARCHIVED; pel.aa.ZYT.500x
+  CVS_Zytiga_Prior_Auth_050111.pdf
+  Cancer_Agents_Zytiga_Summary_030112.pdf
+  Cancer_Agents_Zytiga_Summary_070111.pdf
+Drug Tier Exception; pel.aa.DRU.602
+  Pharmacy_Drug_Tier_Exception_082611.pdf
+Hepatitis C Treatment with Protease Inhibitors and Interferons and Ribavirin - ARCHIVED; pel.aa.HEP.501-ARCHIVED
+  MM.04.012_Hepatitis_C_Treatment_with_Protease_Inhibitors_and_Interferons_and_Ribavirin_010113_ARCHIVED_POLICY.pdf
+  MM.04.012_Hepatitis_C_Treatment_with_Protease_Inhibitors_and_Interferons_and_Ribavirin_092812.pdf
+  MM.04.012_Hepatitis_C_Treatment_with_Protease_Inhibitors_and_Interferons_and_Ribavirin_050112.pdf
+Pulmonary Hypertension Drugs; pel.aa.PAH.501
+  MM.04.028_Pulmonary_Hypertension_Drugs_062714.pdf
+  MM.04.028_Pulmonary_Hypertension_Drugs_052413.pdf
+  MM.04.028_Pulmonary_Hypertension_Drugs_052512.pdf
+Thalomid - QUEST; QU.aa.THA.500x
+  Cancer_Agents_Thalomid_Summary_QUEST_060112.pdf
+Prophylactic Mastectomy; pel.aa.PRO.4451
+  MM.06.010_Prophylactic_Mastectomy_082214.pdf
+  MM.06.010_Prophylactic_Mastectomy_120113.pdf
+  MM.06.010_Prophylactic_Mastectomy_082412.pdf
+  MM.06.010_Prophylactic_Mastectomy_072211.pdf
+==========================
+
+[12,100].xml
+==========================
+Polysomnography and Sleep Studies; pel.aa.POL.501
+  MM.02.016_Polysomnography_Sleep_Studies_050114.pdf
+  MM.02.016_Polysomnography_Sleep_Studies_122112.pdf
+  MM.02.016_Polysomnography_Sleep_Studies_102811.pdf
+Amphotec; pel.ph.AMP.200x
+  CVS_Infusion_Pump_Medications_Prior_Auth_Med_D.pdf
+azathioprine (Azasan, Imuran); pel.ph.AZA.200x
+  CVS_Immunosuppressant_Agents_Prior_Auth_Med_D.pdf
+==========================
+
+[13,100].xml
+==========================
+Colorectal Cancer Screening; pel.aa.COL.401
+  MM.12.004_Colorectal_Cancer_Screening_102513.pdf
+  MM.12.004_Colorectal_Cancer_Screening_030113.pdf
+  MM.12.004_Colorectal_Cancer_Screening_092311.pdf
+amphetamine/dextroamphetamine (Adderall, Adderall XR); pel.ph.AMP.100x
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+Hematopoietic Stem-Cell Transplantation for Acute Lymphoblastic Leukemia; pel.aa.BCBS.8.01.321
+  MM.07.007_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Lymphoblastic_Leukemia_062714.pdf
+  MM.07.007_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Lymphoblastic_Leukemia_100113.pdf
+  MM.07.007_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Lymphoblastic_Leukemia_042712.pdf
+  MM.07.007_Hematopoietic_Stem_Cell_Transplantation_for_Acute_Lymphoblastic_Leukemia_082611.pdf
+Aralast NP; pel.ph.ARA.100x
+  CVS_Alpha_1_Proteinase_Inhibitor_Prior_Auth_Med_D.pdf
+Pulse Oximeter for Children; pel.aa.HOM.801
+  MM.01.011_Pulse_Oximeter_for_Children_112213.pdf
+  MM.01.011_Pulse_Oximeter_for_Children_050113.pdf
+  MM.01.011_Pulse_Oximeter_for_Children_102811.pdf
+Intensity Modulated Radiation Therapy (IMRT); pel.aa.INT.201
+  MM.05.006_Intensity_Modulated_Radiation_Therapy_(IMRT)_030114.pdf
+  MM.05.006_Intensity_Modulated_Radiation_Therapy_(IMRT)_020113.pdf
+  MM.05.006_Intensity_Modulated_Radiation_Therapy_(IMRT)_062411.pdf
+Intravenous (IV) Hydration Therapy for Adults; pel.aa.HOM.551
+  MM.08.005_Intravenous_(IV)_Hydration_Therapy_for_Adults_072514.pdf
+  MM.08.005_Home_IV_Hydration_Therapy_for_Adults_010114.pdf
+  MM.08.005_Home_IV_Hydration_Therapy_for_Adults_052512.pdf
+==========================
+
+[14,100].xml
+==========================
+Pre-certification Requirements - Akamai Advantage Plans; pel.aa.AKA.501
+  MM.13.001_Precertification_Requirements_Akamai_Advantage_Plans_90_Day_Notice_010115.pdf
+  MM.13.001_Precertification_Requirements_Akamai_Advantage_Plans_010114.pdf
+  MM.13.001_Precertification_Requirements_Akamai_Advantage_Plans_010113.pdf
+  MM.13.001_Precertification_Requirements_Akamai_Advantage_Plans_062811.pdf
+Home Infusion Pain Management Therapy; pel.ph.HOM.301
+  MM.08.002_Home_Infusion_Pain_Management_Therapy_102513.pdf
+  MM.08.002_Home_Infusion_Pain_Management_Therapy_062212.pdf
+  MM.08.002_Home_Infusion_Pain_Management_Therapy_110111.pdf
+Composite Tissue Allotransplantation of the Hand and Face; pel.aa.COM.200
+  MM.07.028_Composite_Tissue_Allotransplantation_of_the_Hand_and_Face_080114.pdf
+Preventive Health Guidelines - Prenatal Care; pel.aa.OBG.501
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_Care_90_Day_Notice_010115.pdf
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_050114.pdf
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_082313.pdf
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_050113.pdf
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_070112.pdf
+  MM.14.003_Preventive_Health_Guidelines_Prenatal_Care_092311.pdf
+Uterine Artery Embolization to Treat Fibroids; pel.ph.UTE.501
+  MM.03.004_Uterine_Artery_Embolization_to_Treat_Fibroids_022814.pdf
+  MM.03.004_Uterine_Artery_Embolization_to_Treat_Fibroids_032213.pdf
+  MM.03.004_Uterine_Artery_Embolization_to_Treat_Fibroids_110112.pdf
+  MM.03.004_Uterine_Artery_Embolization_to_Treat_Fibroids_080112.pdf
+==========================
+
+[15,100].xml
+==========================
+Heart Transplant; pel.aa.BCBS.7.03.091
+  MM.07.005_Heart_Transplant_060114.pdf
+  MM.07.005_Heart_Transplant_080113.pdf
+  MM.07.005_Heart_Transplant_022412.pdf
+Biomarkers (Novel) in Risk Assessment and Management of Cardiovascular Disease; pel.aa.LIP.601
+  MM.02.013_Biomarkers_(Novel)_Liipid_Risk_Factors_in_Risk_Assessment_and_Management_of_Cardiovascular_Disease_030114.pdf
+  MM.02.013_Novel_Liipid_Risk_Factors_in_Risk_Assessment_and_Management_of_Cardiovascular_Disease_092812.pdf
+  MM.02.013_Lipid_Risk_Factors_Novel_in_Risk_Assessment_and_Management_of_Cardiovascular_Disease_110111.pdf
+Repetitive Transcranial Magnetic Stimulation for Treatment Refractory Depression; pel.aa.REP.101
+  MM.12.015_Repetitive_Transcranial_Magnetic_Stimulation_for_Treatment_Refractory_Depression_080114.pdf
+Genetic Testing for Non-Cancerous Inheritable Diseases; pel.aa.GEN.801
+  MM.02.009_Genetic_Testing_for_Non_Cancerous_Inheritable_Diseases_110113.pdf
+  MM.02.009_Genetic_Testing_for_Non_Cancerous_Inheritable_Diseases_050113.pdf
+  MM.02.009_Genetic_Testing_for_Non_Cancerous_Inheritable_Diseases_040112.pdf
+Charged-Particle (Proton or Helium Ion) Radiation Therapy; pel.aa.CHA.701
+  MM.05.005_Charged_Particle_(Proton_or_Helium_Ion)_Radiation_Therapy_062714.pdf
+  MM.05.005_Charged_Particle_(Proton_or_Helium_Ion)_Radiation_Therapy_100113.pdf
+  MM.05.005_Charged_Particle_(Proton_or_Helium_Ion)_Radiation_Therapy_022412.pdf
+Afinitor; pel.ph.AFI.100x
+  CVS_Afinitor_Prior_Auth_050112.pdf
+  CVS_Afinitor_Prior_Auth_050112.pdf
+  CVS_Afinitor_Prior_Auth_050112.pdf
+  CVS_Afinitor_Prior_Auth_050112.pdf
+Amnesteem; pel.ph.AMN.100x
+  CVS_PA_Isotretinoin_Products.pdf
+Actiq; pel.ph.ACT.300x
+  CVS_Actiq_Prior_Auth_122812.pdf
+  CVS_Actiq_Prior_Auth_122812.pdf
+  CVS_Actiq_Prior_Auth_122812.pdf
+  CVS_Actiq_Prior_Auth_122812.pdf
+Computerized Corneal Topography; pel.ph.COM.801
+  MM.12.005_Computerized_Corneal_Topography_042514.pdf
+  MM.12.005_Computerized_Corneal_Topography_030113.pdf
+  MM.12.005_Computerized_Corneal_Topography_022412.pdf
+Hematopoietic Stem-Cell Transplantation for Breast Cancer; pel.aa.BCBS.8.01.271
+  MM.07.010_Hematopoietic_Stem_Cell_Transplantation_for_Breast_Cancer_032814.pdf
+  MM.07.010_Hematopoietic_Stem_Cell_Transplantation_for_Breast_Cancer_032213.pdf
+  MM.07.010_Hematopoietic_Stem_Cell_Transplantation_for_Breast_Cancer_042712.pdf
+  MM.07.010_Hematopoietic_Stem_Cell_Transplantation_for_Breast_Cancer_080311.pdf
+==========================
+
+[16,100].xml
+==========================
+Anadrol-50; pel.ph.ANA.100x
+  CVS_Anabolic_Steroids_Prior_Auth_Med_D.pdf
+Kyphoplasty and Vertebroplasty; pel.aa.KYP.501
+  MM.06.007_Kyphoplasty_and_Vertebroplasty_062714.pdf
+  MM.06.007_Kyphoplasty_and_Vertebroplasty_102513.pdf
+  MM.06.007_Kyphoplasty_and_Vertebroplasty_040113.pdf
+  MM.06.007_Kyphoplasty_and_Vertebroplasty_102612.pdf
+  MM.06.007_Kyphoplasty_and_Vertebroplasty_020112.pdf
+Home Health Care; pel.aa.HOM.201
+  MM.11.001_Home_Health_Care_90_Day_Notice_110114.pdf
+  MM.11.001_Home_Health_Care_060114.pdf
+  MM.11.001_Home_Health_Care_102513.pdf
+  MM.11.001_Home_Health_Care_050113.pdf
+  MM.11.001_Home_Health_Care_040112.pdf
+==========================
+
+[17,100].xml
+==========================
+Endovascular Procedures (Angioplasty and/or Stenting) for Intracranial Arterial Disease (Atherosclerosis and Aneurysms); pel.aa.END.100
+  MM.05.010_Endovascular_Procedures_for_Intracranial_Arterial_Disease_092713.pdf
+  MM.05.010_Endovascular_Procedures_for_Intracranial_Arterial_Disease_020113.pdf
+Hematopoietic Stem-Cell Transplantation for Epithelial Ovarian Cancer; pel.aa.BCBS.8.01.231
+  MM.07.014_Hematopoietic_Stem_Cell_Transplantation_for_Epithelial_Ovarian_Cancer_012414.pdf
+  MM.07.014_Hematopoietic_Stem_Cell_Transplantation_for_Epithelial_Ovarian_Cancer_032213.pdf
+  MM.07.014_Hematopoietic_Stem_Cell_Transplantation_for_Epithelial_Ovarian_Cancer_022412.pdf
+Autologous Chondrocyte Implantation for Focal Articular Cartilage Lesions; pel.aa.AUT.201
+  MM.06.002_Autologous_Chondrocyte_Implantation_for_Focal_Articular_Cartilage_Lesions_022814.pdf
+  MM.06.002_Autologous_Chondrocyte_Implantation_030113.pdf
+  MM.06.002_Autologous_Chondrocyte_Implantation_032312.pdf
+  MM.06.002_Autologous_Chondrocyte_Implantation_111101.pdf
+Brachytherapy, Noncoronary; pel.ph.BRA.501
+  MM.05.004_Brachytherapy_Noncoronary_040114.pdf
+  MM.05.004_Brachytherapy_Noncoronary_050113.pdf
+  MM.05.004_Brachytherapy_Noncoronary_092311.pdf
+acyclovir; pel.ph.ACY.100x
+  CVS_Infusion_Pump_Medications_Prior_Auth_111312.pdf
+==========================
+
+[18,100].xml
+==========================
+Avastin (Bevacizumab); pel.aa.AVA.500x
+  MM.04.001_Avastin_(Bevacizumab)_100114.pdf
+  MM.04.001_Bevacizumab_Avastin_030114.pdf
+  MM.04.001_Bevacizumab_Avastin_050113.pdf
+Velcade (Bortezomib); pel.ph.VEL.500x
+  MM.04.003_Velcade_(Bortezomib)_90_Day_Notice_110114.pdf
+  MM.04.003_Bortezomib_Velcade_050114.pdf
+  MM.04.003_Bortezomib_Velcade_010113.pdf
+  MM.04.003_Bortezomib_Velcade_072211.pdf
+Durable Medical Equipment, Prosthetics and Orthotics; pel.aa.DUR.501
+  MM.01.002_Durable_Medical_Equipment_Prosthetics_and_Orthotics_90_Day_Notice_020115.pdf
+  MM.01.002_Durable_Medical_Equipment_Prosthetics_and_Orthotics_040114.pdf
+  MM.01.002_Durable_Medical_Equipment_Prosthetics_and_Orthotics_080113.pdf
+  MM.01.002_Durable_Medical_Equipment_Prosthetics_and_Orthotics_050113.pdf
+  MM.01.002_Durable_Medical_Equipment_Prosthetics_and_Orthotics_050112.pdf
+Forteo (Teriparatide); pel.ph.TER.201
+  MM.04.032_Forteo_(Teriparatide)_092614.pdf
+  MM.04.032_Forteo_Teriparatide_072613.pdf
+  MM.04.032_Teriparatide_Forteo_110112.pdf
+  MM.04.032_Teriparatide_(Forteo)_120111.pdf
+Cognitive Rehabilitation and Sensory Integration Therapy; pel.aa.COG.501
+  MM.09.001_Cognitive_Rehabilitation_and_Sensory_Integration_Therapy_092713.pdf
+  MM.09.001_Cognitive_Rehabilitation_and_Sensory_Integration_Therapy_082412.pdf
+  MM.09.001_Cognitive_Rehabilitation_and_Sensory_Integration_Therapy_082611.pdf
+==========================
+
+[19,100].xml
+==========================
+Durable Medical Equipment, Prosthetics and Orthotics - Small Group & Individual Plans, Fed 87 and QUEST Integration; pel.aa.DUR.601
+  MM.01.013_Durable_Medical_Equipment_Prosthetics_and_Orthotics_Small_Group_and_Individual_Plans_Fed_87_and_QUEST_Integration_90_Day_Notice_020115.pdf
+  MM.01.013_Durable_Medical_Equipment_Prosthetics_and_Orthotics_Small_Group_and_Individual_Plans_Fed_87_010114.pdf
+Intravenous (IV) Anti-Infective Therapy; pel.aa.HOM.501
+  MM.08.004_Intravenous_(IV)_Anti_Infective_Therapy_072514.pdf
+  MM.08.004_Home_IV_Anti_Infective_Therapy_062813.pdf
+  MM.08.004_Home_IV_Anti_Infective_Therapy_052512.pdf
+  MM.08.004_Home_IV_Anti_Infective_Therapy_111101.pdf
+Hematopoietic Stem-Cell Transplantation for Solid Tumors of Childhood; pel.aa.BCBS.8.01.341
+  MM.07.021_Hematopoietic_Stem_Cell_Transplantation_for_Solid_Tumors_of_Childhood_052314.pdf
+  MM.07.021_Hematopoietic_Stem_Cell_Transplantation_for_Solid_Tumors_of_Childhood_052413.pdf
+  MM.07.021_Hematopoietic_Stem_Cell_Transplantation_for_Solid_Tumors_of_Childhood_062212.pdf
+Home Enteral Nutrition Therapy; pel.aa.HOM.151
+  MM.08.001_Home_Enteral_Nutrition_Therapy_072514.pdf
+  MM.08.001_Home_Enteral_Nutrition_Therapy_062813.pdf
+  MM.08.001_Home_Enteral_Nutrition_Therapy_052512.pdf
+  MM.08.001_Home_Enteral_Nutrition_Therapy_111101.pdf
+==========================
+
+[20,100].xml
+==========================
+Isolated Small Bowel Transplant; pel.aa.BCBS.7.03.041
+  MM.07.022_Isolated_Small_Bowel_Transplant_012414.pdf
+  MM.07.022_Isolated_Small_Bowel_Transplant_080113.pdf
+  MM.07.022_Isolated_Small_Bowel_Transplant_012712.pdf
+==========================
+
+[21,100].xml
+==========================
+Intravenous (IV) Hydration Therapy for Hyperemesis Gravidarum; pel.aa.HOM.571
+  MM.08.006_Intravenous_(IV)_Hydration_Therapy_for_Hyperemesis_Gravidarum_072514.pdf
+  MM.08.006_Home_IV_Hydration_Therapy_for_Hyperemesis_Gravidarum_062813.pdf
+  MM.08.006_Home_IV_Hydration_Therapy_for_Hyperemesis_Gravidarum_100112.pdf
+  MM.08.006_Home_IV_Hydration_Therapy_for_Hyperemesis_Gravidarum_111101.pdf
+Panniculectomy/Abdominoplasty; pel.aa.PAN.601
+  MM.06.010_Panniculectomy_Abdominoplasty_012414.pdf
+  MM.06.010_Panniculectomy_Abdominoplasty_030113.pdf
+  MM.06.010_Panniculectomy_Abdominoplasty_022412.pdf
+Alprostadil; pel.ph.ALP.100x
+  CVS_Alprostadil_Caverject_Edex_Muse_Prior_Auth_122712.pdf
+Speech Therapy Services; pel.aa.SPE.601a
+  MM.09.006_Speech_Therapy_Services_90_Day_Notice_010115.pdf
+  MM.09.006_Speech_Therapy_Services_062714.pdf
+  MM.09.006_Speech_Therapy_Services_052413.pdf
+  MM.09.006_Speech_Therapy_Services_032312.pdf
+==========================
+
+[22,100].xml
+==========================
+High Frequency Chest Wall Oscillation Devices; pel.aa.OSC.501
+  MM.01.007_High_Frequency_Chest_Wall_Oscillation_Devices_(The_Vest)_050114.pdf
+  MM.01.007_High_Frequency_Chest_Wall_Oscillation_Devices_122112.pdf
+  MM.01.007_Oscillatory_Device_for_Bronchial_Drainage_(The_Vest)_102811.pdf
+Transcatheter Closure of Patent Foramen Ovale for Stroke Prevention; pel.aa.TRA.500
+  MM.06.021_Transcatheter_Closure_of_Patent_Foramen_Ovale_for_Stroke_Prevention_022814.pdf
+  MM.06.021_Transcatheter_Closure_of_Patent_Foramen_Ovale_for_Stroke_Prevention_080113.pdf
+Botulinum Toxins (BOTOX, DYSPORT, MYOBLOC and XEOMIN); pel.aa.BOT.501
+  MM.04.004_Botulinum_Toxins_(BOTOX_DYSPORT_MYOBLOC_and_XEOMIN)_082214.pdf
+  MM.04.004_Botulinum_Toxins_BOTOX_DYSPORT_MYOBLOC_and_XEOMIN_050114.pdf
+  MM.04.004_Botulinum_Toxins_BOTOX_DYSPORT_MYOBLOC_and_XEOMIN_100113.pdf
+  MM.04.004_Botulinum_Toxins_(BOTOX_DYSPORT_MYOBLOC_and_XEOMIN)_100111.pdf
+Small Bowel/Liver and Multivisceral Transplant; pel.aa.BCBS.7.03.051
+  MM.07.025_Small_Bowel_Liver_and_Multivisceral_Transplant_072514.pdf
+  MM.07.025_Small_Bowel_Liver_and_Multivisceral_Transplant_020114.pdf
+  MM.07.025_Small_Bowel_Liver_and_Multivisceral_Transplant_082412.pdf
+  MM.07.025_Small_Bowel_Liver_and_Multivisceral_Transplant_092311.pdf
+==========================
+
+[23,100].xml
+==========================
+Growth Hormone Therapy; pel.aa.GRO.501
+  MM.04.011_Growth_Hormone_Therapy_052314.pdf
+  MM.04.011_Growth_Hormone_Therapy_112213.pdf
+  MM.04.011_Growth_Hormone_Therapy_082412.pdf
+  MM.04.011_Growth_Hormone_Therapy_102811.pdf
+Spinal Cord Stimulators for Pain Management; pel.aa.SPI.501
+  MM.06.013_Spinal_Cord_Stimulators_for_Pain_Management_010115.pdf
+  MM.06.013_Spinal_Cord_Stimulators_for_Pain_Management_092713.pdf
+  MM.06.013_Spinal_Cord_Stimulators_for_Pain_Management_102612.pdf
+  MM.06.013_Spinal_Cord_Stimulators_for_Pain_Management_030112.pdf
+Physical Therapy; pel.aa.PHY.601
+  MM.09.005_Physical_Therapy_90_Day_Notice_020115.pdf
+  MM.09.005_Physical_Therapy_092713.pdf
+  MM.09.005_Physical_Therapy_092812.pdf
+  MM.09.005_Physical_Therapy_020112.pdf
+==========================
+
+[24,100].xml
+==========================
+Specialty Drugs Requiring Pre-certification; pel.aa.FDA.501
+  MM.04.009_Specialty_Drugs_Requiring_Precertification_090514.pdf
+  MM.04.009_Specialty_Drugs_Requiring_Precertification_072814.pdf
+  MM.04.009_Specialty_Drugs_Requiring_Precertification_062714.pdf
+  MM.04.009_Specialty_Drugs_Requiring_Precertification_010114.pdf
+  MM.04.009_FDA_Approved_Drugs_Requiring_Precertification_030113.pdf
+  MM.04.009_FDA_Approved_Drugs_Requiring_Precertification_042712.pdf
+  MM.04.009_FDA_Approved_Drugs_Requiring_Precertification_092311.pdf
+Hematopoietic Stem-Cell Transplantation for Miscellaneous Solid Tumors in Adults; pel.aa.BCBS.8.01.241
+  MM.07.016_Hematopoietic_Stem_Cell_Transplantation_for_Miscellaneous_Solid_Tumors_in_Adults_112213.pdf
+  MM.07.016_Hematopoietic_Stem_Cell_Transplantation_for_Miscellaneous_Solid_Tumors_in_Adults_110112.pdf
+  MM.07.016_Hematopoietic_Stem_Cell_Transplantation_for_Miscellaneous_Solid_Tumors_in_Adults_102811.pdf
+Erbitux (Cetuximab); pel.aa.ERB.500x
+  MM.04.005_Erbitux_(Cetuximab)_90_Day_Notice_010115.pdf
+  MM.04.005_Cetuximab_Erbitux_100113.pdf
+  MM.04.005_Cetuximab_Erbitux_090112.pdf
+==========================
+
+[25,100].xml
+==========================
+Aranesp; pel.ph.ARA.200x
+  CVS_Aranesp_Epogen_Procrit_Omontys_Prior_Auth_Med_D.pdf
+Axiron; pel.ph.AXI.100x
+  CVS_PA_Axiron.pdf
+Blepharoplasty and Repair of Blepharoptosis; pel.ph.BLE.501
+  MM.06.004_Blepharoplasty_and_Repair_of_Blepharoptosis_032814.pdf
+  MM.06.004_Blepharoplasty_and_Repair_of_Blepharoptosis_032213.pdf
+  MM.06.004_Blepharoplasty_and_Repair_of_Blepharoptosis_022412.pdf
+Hematopoietic Stem-Cell Transplantation in the Treatment of Germ-Cell Tumors - OBSOLETE3; pel.aa.BCBS.8.01.35-Obsolete3
+Observation Services; pel.aa.OBS.501
+  MM.12.008_Observation_Services_082214.pdf
+  MM.12.008_Observation_Services_102513.pdf
+  MM.12.008_Observation_Services_082412.pdf
+  MM.12.008_Observation_Services_010112.pdf
+Clinical Trials - Routine Costs; pel.aa.CLI.501
+  MM.12.002_Clinical_Trials_Routine_Costs_082214.pdf
+  MM.12.002_Clinical_Trials_010114.pdf
+  MM.12.002_Routine_Costs_Associated_with_Clinical_Trials_050113.pdf
+  MM.12.002_Clinical_Trials_121611.pdf
+==========================
+
+[26,100].xml
+==========================
+Radiology Guidelines for Advanced Imaging Studies; pel.aa.IMA.501
+  MM.05.007_Radiology_Guidelines_for_Advanced_Imaging_Studies_040114.pdf
+  MM.05.007_Radiology_Guidelines_for_Advanced_Imaging_Studies_100113.pdf
+  MM.05.007_Radiology_Guidelines_for_Advanced_Imaging_Studies_040113.pdf
+==========================
+
+[27,100].xml
+==========================
+Amphotericin B (Abelcet, Ambisome, Amphotec); pel.ph.AMP.300x
+  CVS_Infusion_Pump_Medications_Prior_Auth_Med_D.pdf
+Preventive Health Guidelines - Men; pel.ph.PRE.501
+  MM.14.001_Preventive_Health_Guidelines_Men_90_Day_Notice_010115.pdf
+  MM.14.001_Preventive_Health_Guidelines_Men_050114.pdf
+  MM.14.001_Preventive_Health_Guidelines_Men_010114.pdf
+  MM.14.001_Preventive_Health_Guidelines_Men_050113.pdf
+  MM.14.001_Preventive_Health_Guidelines_Men_082412.pdf
+  MM.14.001_Preventive_Health_Guidelines_Men_092311.pdf
+Lupron (Leuprolide Acetate) and  Supprelin LA (Histrelin Acetate) Subcutaneous Implant; pel.ph.LUP.600x
+  MM.04.018_Leuprolide_Acetate_(Lupron)_and_Histrelin_Acetate_(Supprelin_LA)_Subcutaneous_Implant_062714.pdf
+  MM.04.018_Leuprolide_Acetate_Lupron_and_Histrelin_Acetate_Supprelin_LA_Subcutaneous_Implant_102513.pdf
+  MM.04.018_Leuprolide_Acetate_Lupron_and_Histrelin_Acetate_Supprelin_LA_Subcutaneous_Implant_062212.pdf
+  MM.04.018_Leuprolide_Acetate_(Lupron)_and_Histrelin_Acetate_(Supprelin_LA)_Subcutaneous_Implant_062411.pdf
+Genetic Testing for Hereditary Breast and/or Ovarian Cancer; pel.aa.GEN.701
+  MM.02.008_Genetic_Testing_for_Hereditary_Breast_and_or_Ovarian_Cancer_90_Day_Notice_010115.pdf
+  MM.02.008_Genetic_Testing_for_Hereditary_Breast_and_or_Ovarian_Cancer_050114.pdf
+  MM.02.008_Genetic_Testing_for_Hereditary_Breast_and_or_Ovarian_Cancer_120112.pdf
+  MM.02.008_Genetic_Testing_for_Hereditary_Breast_and_or_Ovarian_Cancer_111101.pdf
+Actemra; pel.ph.ACT.100x
+  CVS_Actemra_Prior_Auth_Med_D.pdf
+Never Events and Hospital-Acquired Conditions; pel.aa.NEV.501
+  MM.12.007_Never_Events_and_Hospital_Acquired_Conditions_092713.pdf
+  MM.12.007_Never_Events_and_Hospital_Acquired_Conditions_010113.pdf
+  MM.12.007_Never_Events_and_Hospital_Acquired_Conditions_042712.pdf
+  MM.12.007_Never_Events_and_Hospital_Acquired_Conditions_010112.pdf
+In Vitro Fertilization; pel.ph.INV.501
+  MM.03.002_In_Vitro_Fertilization_042514.pdf
+  MM.06.017_In_Vitro_Fertilization_042514.pdf
+  MM.06.017_In_Vitro_Fertilization_122013.pdf
+  MM.06.017_In_Vitro_Fertilization_100113.pdf
+  MM.06.017_In_Vitro_Fertilization_100112.pdf
+  MM.06.017_In_Vitro_Fertilization_042211.pdf
+Liver Transplant; pel.aa.BCBS.7.03.061
+  MM.07.023_Liver_Transplant_090114.pdf
+  MM.07.023_Liver_Transplant_090113.pdf
+  MM.07.023_Liver_Transplant_102612.pdf
+  MM.07.023_Liver_Transplant_111811.pdf
+Xolair (Omalizumab); pel.ph.XOL.500x
+  MM.04.023_Xolair_(Omalizumab)_90_Day_Notice_110114.pdf
+  MM.04.023_Xolair_Omalizumab_072613.pdf
+  MM.04.023_Omalizumab_Xolair_072712.pdf
+  MM.04.023_Omalizumab_(Xolair)_082611.pdf
+Preventive Health Guidelines - Women; pel.ph.GUI.401
+  MM.14.004_Preventive_Health_Guidelines_Women_90_Day_Notice_010115.pdf
+  MM.14.004_Preventive_Health_Guidelines_Women_050114.pdf
+  MM.14.004_Preventive_Health_Guidelines_Women_010114.pdf
+  MM.14.004_Preventive_Health_Guidelines_Women_050113.pdf
+  MM.14.004_Preventive_Health_Guidelines_Women_070112.pdf
+  MM.14.004_Preventive_Health_Guidelines_Women_092311.pdf
+anagrelide (Agrylin); pel.ph.ANA.200x
+  CVS_Anagrelide_Prior_Auth_Med_D.pdf
+==========================
+
+[28,100].xml
+==========================
+Ambisome; pel.ph.AMB.100x
+  CVS_Infusion_Pump_Medications_Prior_Auth_Med_D.pdf
+Actimmune; pel.ph.ACT.200x
+  CVS_Actimmune_Prior_Auth_Med_D.pdf
+Sovaldi (Sofosbuvir) for Treatment of Hepatitis C; pel.aa.SOV.500x
+  MM.04.033_Sovaldi_(Sofosbuvir)_for_Treatment_of_Hepatitis_C_091514.pdf
+Medical Foods for Inborn Errors of Metabolism; pel.ph.MED.301
+  MM.02.014_Medical_Foods_for_Inborn_Errors_of_Metabolism_052314.pdf
+  MM.02.014_Medical_Foods_for_Inborn_Errors_of_Metabolism_082313.pdf
+  MM.02.014_Medical_Foods_for_Inborn_Errors_of_Metabolism_052512.pdf
+  MM.02.014_Medical_Foods_for_Inborn_Errors_of_Metabolism_082611.pdf
+Zevalin (Ibritumomab tiuxetan); pel.ph.ZEV.500x
+  MM.04.013_Zevalin_(Ibritumomab_Tiuxetan)_90_Day_Notice_020115.pdf
+  MM.04.013_Ibritumomab_Tiuxetan_Zevalin_010114.pdf
+  MM.04.013_Ibritumomab_Tiuxetan_Zevalin_062212.pdf
+Anesthesia Services for Gastrointestinal Endoscopic Procedures; pel.aa.ANE.851
+  MM.12.001_Anesthesia_Services_for_Gastrointestinal_Endoscopic_Procedures_90_Day_Notice_120114.pdf
+  MM.12.001_Anesthesia_Services_for_GI_Endoscopic_Procedures_120113.pdf
+  MM.12.001_Anesthesia_Services_for_Gastrointestinal_Endoscopic_Procedures_110112.pdf
+  MM.12.001_Anesthesia_Services_for_GI_Endoscopic_Procedures_111711.pdf
+Low-Molecular-Weight Heparin; pel.ph.LOW.501
+  MM.04.019_Low_Molecular_Weight_Heparin_092614.pdf
+  MM.04.019_Low_Molecular_Weight_Heparin_010114.pdf
+  MM.04.019_Low_Molecular_Weight_Heparin_080112.pdf
+  MM.04.019_Low_Molecular_Weight_Heparin_102811.pdf
+==========================
+
+[29,100].xml
+==========================
+Hyperbaric Oxygen Pressurization (HBO); pel.ph.HYP.501
+  MM.02.012_Hyperbaric_Oxygen_Pressurization_(HBO)_90_Day_Notice_010115.pdf
+  MM.02.012_Hyperbaric_Oxygen_Pressurization_(HBO)_050114.pdf
+  MM.02.012_Hyperbaric_Oxygen_Pressurization_(HBO)_030113.pdf
+  MM.02.012_Hyperbaric_Oxygen_Pressurization_(HBO)_100111.pdf
+Hematopoietic Stem-Cell Transplantation for CNS Embryonal Tumors and Ependymoma; pel.aa.BCBS.8.01.281
+  MM.07.013_Hematopoietic_Stem_Cell_Transplantation_for_CNS_Embryonal_Tumors_and_Ependymoma_012414.pdf
+  MM.07.013_Hematopoietic_Stem_Cell_Transplantation_for_CNS_Embryonal_Tumors_and_Ependymoma_032213.pdf
+  MM.07.013_Hematopoietic_Stem_Cell_Transplantation_for_CNS_Embryonal_Tumors_and_Ependymoma_022412.pdf
+==========================
+
+[30,100].xml
+==========================
+Ampyra; pel.ph.AMP.400x
+  CVS_Amypra_Prior_Auth_Med_D.pdf
+Transcatheter Pulmonary Valve Implantation; pel.aa.TRA.701
+  MM.06.022_Transcatheter_Pulmonary_Valve_Implantation_032814.pdf
+  MM.06.022_Transcatheter_Pulmonary_Valve_Implantation_090113.pdf
+Abelcet; pel.ph.ABE.100x
+  CVS_Infusion_Pump_Medications_Prior_Auth_111312.pdf
+Arcalyst; pel.ph.ARC.100x
+  CVS_Arcalyst_Prior_Auth_Med_D.pdf
+Nexavar (Sorafenib); pel.aa.NEX.550x
+  CVS_Nexavar_Prior_Auth_020112.pdf
+  Cancer_Agents_Nexavar_Summary_030112.pdf
+  MEDCO_Cancer_Agents_Nexavar_Summary_9_22.pdf
+Catheter Ablation of Arrhythmogenic Foci as Treatment for Atrial Fibrillation; pel.aa.RAD.251
+  MM.06.011_Catheter_Ablation_of_Arrhythmogenic_Foci_as_Treatment_for_Atrial_Fibrillation_062714.pdf
+  MM.06.011_Catheter_Ablation_of_the_Pulmonary_Veins_as_Treatment_for_Atrial_Fibrillation_052413.pdf
+  MM.06.011_Catheter_Ablation_of_the_Pulmonary_Veins_as_Treatment_for_Atrial_Fibrillation_052512.pdf
+  MM.06.011_Catheter_Ablation_of_the_Pulmonary_Veins_as_Treatment_for_Atrial_Fibrillation_090111.pdf
+Hematopoietic Stem-Cell Transplantation for Multiple Myeloma and POEMS Syndrome; pel.aa.BCBS.8.01.171
+  MM.07.017_Hematopoietic_Stem_Cell_Transplantation_for_Plasma_Cell_Dyscrasias_Including_Multiple_Myeloma_and_POEMS_Syndrome_090114.pdf
+  MM.07.017_Hematopoietic_Stem_Cell_Transplantation_for_Multiple_Myeloma_and_POEMS_Syndrome_020114.pdf
+  MM.07.017_Hematopoietic_Stem_Cell_Transplantation_for_Multiple_Myeloma_062212.pdf
+  MM.07.017_Hematopoietic_Stem_Cell_Transplantation_for_Multiple_Myeloma_072211.pdf
+Carotid Artery Stenting; pel.ph.CAR.601
+  MM.06.005_Carotid_Artery_Stenting_020114.pdf
+  MM.06.005_Carotid_Artery_Stenting_082412.pdf
+  MM.06.005_Carotid_Artery_Stenting_092311.pdf
+==========================
+
+[31,100].xml
+==========================
+Allogeneic Hematopoietic Stem-Cell Transplantation for Myelodysplastic Syndromes and Myeloproliferative Neoplasms; pel.aa.BCBS.8.02.21
+  MM.07.003_Allogeneic_HSCT_for_Myelodysplastic_Syndromes_and_Myeloproliferative_Neoplasms_060114.pdf
+  MM.07.003_Allogeneic_Stem_Cell_Transplantation_for_Myelodysplastic_Syndromes_and_Myeloproliferative_Neoplasms_032213.pdf
+  MM.07.003_Allogeneic_Stem_Cell_Transplantation_for_Myelodysplastic_Syndromes_and_Myeloproliferative_Neoplasms_022412.pdf
+Adriamycin; pel.ph.ADI.200x
+  CVS_Infusion_Pump_Medications_Prior_Auth_Med_D.pdf
+==========================
+
+[32,100].xml
+==========================
+Avita (tretinoin); pel.ph.AVI.100x
+  CVS_Tretinoin_Products_Medicaid_Prior_Auth_122812.pdf
+Computer-Assisted Musculoskeletal Surgical Navigational Orthopedic Procedure; pel.aa.COM.301
+  MM.06.023_Computer_Assisted_Musculoskeletal_Surgical_Navigational_Orthopedic_Procedure_060114.pdf
+Adipex-P (phentermine); pel.ph.ADI.100x
+  CVS_Phentermine_Phendimetrazine_Didrex_Diethylpropion_Prior_Auth_122812.pdf
+  CVS_Phentermine_Phendimetrazine_Didrex_Diethylpropion_Prior_Auth_122812.pdf
+  CVS_Phentermine_Phendimetrazine_Didrex_Diethylpropion_Prior_Auth_122812.pdf
+==========================
+
+[33,100].xml
+==========================
+Lung and Lobar Lung Transplant; pel.aa.BCBS.7.03.071
+  MM.07.024_Lung_and_Lobar_Lung_Transplant_080114.pdf
+  MM.07.024_Lung_and_Lobar_Lung_Transplant_100113.pdf
+  MM.07.024_Lung_and_Lobar_Lung_Transplant_032312.pdf
+  MM.07.024_Lung_and_Lobar_Lung_Transplant_092311.pdf
+==========================
+
+[34,100].xml
+==========================
+Sutent (Sunitinib); pel.ph.SUT.550x
+  CVS_Sutent_Prior_Auth_020112.pdf
+  Cancer_Agents_Sutent_Summary_060112.pdf
+  Cancer_Agents_Sutent_Summary_5_30_11.pdf
+  MEDCO_Cancer_Agents_Sutent_Summary_9_22.pdf
+Insulin Pumps - External; pel.aa.INS.501
+  MM.01.004_Insulin_Pumps_External_050114.pdf
+  MM.01.004_Insulin_Pumps_External_111612.pdf
+  MM.01.004_Insulin_Pumps_External_030112.pdf
+android (Testred); pel.ph.AND.300x
+  CVS_Testosterone_Oral_Products_Prior_Auth_Med_D.pdf
+Apnea Monitor for Infants; pel.aa.HOM.101
+  MM.01.001_Apnea_Monitor_for_Infants_092614.pdf
+  MM.01.001_Apnea_Monitor_for_Infants_092713.pdf
+  MM.01.001_Apnea_Monitor_for_Infants_092812.pdf
+  MM.01.001_Apnea_Monitor_for_Infants_102811.pdf
+==========================
+
+[35,100].xml
+==========================
+Androxy; pel.ph.AND.400x
+  CVS_Testosterone_Oral_Products_Prior_Auth_Med_D.pdf
+Biological Agents  for the Treatment of Plaque Psoriasis; pel.aa.ETA.501
+  MM.04.002_Biological_Agents_for_the_Treatment_of_Plaque_Psoriasis_112213.pdf
+  MM.04.002_Biological_Agents_for_the_Treatment_of_Plaque_Psoriasis_110112.pdf
+  MM.04.002_Biological_Agents_for_the_Treatment_of_Plaque_Psoriasis_072211.pdf
+Transcatheter Aortic-Valve Implantation for Aortic Stenosis; pel.aa.TRA.601
+  MM.06.019_Transcatheter_Aortic_Valve_Implantation_for_Aortic_Stenosis_080114.pdf
+  MM.06.019_Transcatheter_Aortic_Valve_Implantation_for_Aortic_Stenosis_070113.pdf
+  MM.06.019_Transcatheter_Aortic_Valve_Implantation_for_Aortic_Stenosis_100112.pdf
+Genetic Testing - ARCHIVED; pel.aa.GEN.601
+Habilitative Services; pel.aa.HAB.501
+  MM.12.012_Habilitative_Services_052314.pdf
+  MM.12.012_Habilitative_Services_010114.pdf
+==========================
+
+[36,100].xml
+==========================
+Bio-Engineered Skin and Soft Tissue Substitutes; pel.aa.TIS.501
+  MM.06.018_Bio_Engineered_Skin_and_Soft_Tissue_Substitutes_070114.pdf
+  MM.06.018_Bio_Engineered_Skin_and_Soft_Tissue_Substitutes_100113.pdf
+  MM.06.018_Bio_Engineered_Skin_and_Soft_Tissue_Substitutes_060113.pdf
+  MM.06.018_Tissue_Engineered_Skin_Substitutes_060112.pdf
+Anesthesia Services for Gastrointestinal Endoscopic Procedures; pel.aa.ANE.851
+  MM.12.001_Anesthesia_Services_for_Gastrointestinal_Endoscopic_Procedures_90_Day_Notice_120114.pdf
+  MM.12.001_Anesthesia_Services_for_GI_Endoscopic_Procedures_120113.pdf
+  MM.12.001_Anesthesia_Services_for_Gastrointestinal_Endoscopic_Procedures_110112.pdf
+  MM.12.001_Anesthesia_Services_for_GI_Endoscopic_Procedures_111711.pdf
+==========================
+
+[37,100].xml
+==========================
+Adderall, Adderall XR (amphetamine/dextroamphetamine); pel.ph.ADD.100x
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+  CVS_ADHD_Agents_Post_Limit_Prior_Auth_122812.pdf
+Hematopoietic Stem-Cell Transplantation for Autoimmune Diseases; pel.aa.BCBS.8.01.251
+  MM.07.009_Hematopoietic_Stem_Cell_Transplantation_for_Autoimmune_Diseases_040114.pdf
+  MM.07.009_Hematopoietic_Stem_Cell_Transplantation_for_Autoimmune_Diseases_102612.pdf
+  MM.07.009_Hematopoietic_Stem_Cell_Transplantation_for_Autoimmune_Diseases_102811.pdf
+Home Continuous Inotropic Infusion Therapy; pel.aa.HOM.351
+  MM.08.003_Home_Continuous_Inotropic_Infusion_Therapy_90_Day_Notice_020115.pdf
+  MM.08.003_Home_Continuous_Inotropic_Infusion_Therapy_082313.pdf
+  MM.08.003_Home_Continuous_Inotropic_Infusion_Therapy_120112.pdf
+  MM.08.003_Home_Inotropic_Infusion_Therapy_111101.pdf
+  MM.08.003_Home_Inotropic_Infusion_Therapy_05272011.pdf
+Genetic Testing - Oncology; pel.aa.GEN.851
+  MM.02.010_Genetic_Testing_Oncology_050114.pdf
+  MM.02.010_Genetic_Testing_Oncology_020413.pdf
+  MM.02.010_Genetic_Testing_Oncology_050112.pdf
+Male Erectile Dysfunction; pel.aa.MAL.501
+  MM.12.011_Male_Erectile_Dysfunction_041514.pdf
+  MM.12.011_Male_Erectile_Dysfunction_102513.pdf
+  MM.12.011_Male_Erectile_Dysfunction_030113.pdf
+Alimta (Pemetrexed); pel.ph.ALI.500x
+  MM.04.027_Pemetrexed_(Alimta)_90_Day_Notice_110114.pdf
+  MM.04.027_Pemetrexed_(Alimta)_090113.pdf
+  MM.04.027_Pemetrexed_Alimta_070112.pdf
+==========================
+
+[38,100].xml
+==========================
+Agrylin; pel.ph.AGR.100x
+  CVS_Anagrelide_Prior_Auth_Med_D.pdf
+Sequencing-based Tests to Determine Trisomy 21 from Maternal Plasma DNA; pel.aa.SEQ.651
+  MM.03.006_Sequencing_based_Tests_to_Determine_Trisomy_21_from_Maternal_Plasma_DNA_032814.pdf
+  MM.03.006_Sequencing_based_Tests_to_Determine_Trisomy_21_from_Maternal_Plasma_DNA_090113.pdf
+Nerve Fiber Density Testing; pel.aa.NER.501
+  MM.02.020_Nerve_Fiber_Density_Testing_032814.pdf
+  MM.02.020_Nerve_Fiber_Density_Testing_110113.pdf
+Cosmetic and Reconstructive Surgery and Services; pel.aa.COS.401
+  MM.10.001_Cosmetic_and_Reconstructive_Surgery_and_Services_022814.pdf
+  MM.10.001_Cosmetic_and_Reconstructive_Surgery_and_Services_072613.pdf
+  MM.10.001_Cosmetic_and_Reconstructive_Surgery_and_Services_010113.pdf
+  MM.10.001_Cosmetic_and_Reconstructive_Surgery_and_Services_022412.pdf
+Endoscopic Radiofrequency Ablation for Barrett’s Esophagus; pel.aa.RAD.651
+  MM.02.005_Endoscopic_Radiofrequency_Ablation_for_Barretts_Esophagus_90_Day_Notice_010115.pdf
+  MM.02.005_Endoscopic_Radiofrequency_Ablation_for_Barretts_Esophagus_010114.pdf
+  MM.02.005_Endoscopic_Radiofrequency_Ablation_for_Barretts_Esophagus_120112.pdf
+  MM.02.005_Endoscopic_Radiofrequency_Ablation_for_Barretts_Esophagus_111811.pdf
+Implantable Ventricular Assist Devices and Total Artificial Hearts; pel.aa.VEN.501
+  MM.06.017_Implantable_Ventricular_Assist_Devices_and_Total_Artificial_Hearts_062714.pdf
+  MM.06.017_Implantable_Ventricular_Assist_Device_and_Total_Artificial_Hearts_120113.pdf
+  MM.06.017_Ventricular_Assist_Device_and_Total_Artificial_Hearts_110112.pdf
+  MM.06.017_Implantable_Ventricular_Assist_Device_and_Total_Artificial_Hearts_072211.pdf
+Esophageal pH Monitoring; pel.ph.ESO.601
+  MM.02.006_Esophageal_pH_Monitoring_120113.pdf
+  MM.02.006_Esophageal_pH_Monitoring_072712.pdf
+  MM.02.006_Esophageal_pH_Monitoring_05272011.pdf
+==========================
+
+[39,100].xml
+==========================
+Advair Diskus, Advair HFA; pel.ph.ADV.100x
+  CVS_PA_Long_Acting_Beta_Agonist_Step_Therapy.pdf
+Photodynamic Therapy for the Treatment of Actinic Keratoses and Other Skin Lesions; pel.aa.PHO.701
+  MM.02.016_Photodynamic_Therapy_for_the_Treatment_of_Actinic_Keratoses_and_Other_Skin_Lesions_022814.pdf
+  MM.02.016_Photodynamic_Therapy_for_the_Treatment_of_Actinic_Keratoses_and_Other_Skin_Lesions_072613.pdf
+  MM.02.016_Photodynamic_Therapy_for_the_Treatment_of_Actinic_Keratoses_and_Other_Skin_Lesions_120112.pdf
+  MM.02.016_Photodynamic_Therapy_for_the_Treatment_of_Actinic_Keratoses_and_Other_Skin_Lesions_111811.pdf
+Off-Label Drug Use; pel.aa.OFF.601
+  MM.04.021_Off_Label_Drug_Use_052314.pdf
+  MM.04.021_Off_Label_Drug_Use_092713.pdf
+  MM.04.021_Off_Label_Drug_Use_102811.pdf
+Erythropoiesis Stimulating Agents (ESA); pel.aa.ERY.501
+  MM.04.008_Erythropoiesis_Stimulating_Agents_(ESA)_102513.pdf
+  MM.04.008_Erythropoiesis_Stimulating_Agents_(ESA)_030113.pdf
+  MM.04.008_Erythropoiesis_Stimulating_Agents_ESA_020112.pdf
+Bariatric Surgery; pel.aa.BAR.201
+  MM.06.003_Bariatric_Surgery_092614.pdf
+  MM.06.003_Bariatric_Surgery_040114.pdf
+  MM.06.003_Bariatric_Surgery_010113.pdf
+  MM.06.003_Bariatric_Surgery_050112.pdf
+==========================
+
+[40,100].xml
+==========================
+Ambulatory Event Monitors and Mobile Cardiac Outpatient Telemetry; pel.aa.AMB.601
+  MM.02.021_Ambulatory_Event_Monitors_and_Mobile_Cardiac_Outpatient_Telemetry_020114.pdf
+Jakafi; pel.aa.JAK.500x
+  Jakafi_Summary_HMSA_Apr_2012.pdf
+Alora; pel.ph.ALO.100x
+  CVS_High_Risk_Medications_Prior_Auth_Med_D.pdf
+==========================
+
+[41,100].xml
+==========================
+Adrucil; pel.ph.ADR.100x
+  CVS_Infusion_Pump_Medications_Prior_Auth_Med_D.pdf
+Hematopoietic Stem-Cell Transplantation for Waldenstrom Macroglobulinemia; pel.aa.BCBS.8.01.421
+  MM.07.026_Hematopoietic_Stem_Cell_Transplantation_for_Waldenstrom_Macroglobulinemia_032814.pdf
+  MM.07.026_Hematopoietic_Stem_Cell_Transplantation_for_Waldenstrom_Macroglobulinemia_042613.pdf
+  MM.07.026_Hematopoietic_Stem_Cell_Transplantation_for_Waldenstrom_Macroglobulinemia_042712.pdf
+  MM.07.026_Hematopoietic_Stem_Cell_Transplantation_for_Waldenstrom_Macroglobulinemia_080411.pdf
+==========================
+
+[42,100].xml
+==========================
+Pulmonary Arterial Hypertension Oral Agents; pel.aa.PAH.500x
+  Pulmonary_PAH_Agents_Summary_012312.pdf
+  MEDCO_Pulmonary_PAH_Agents_Summary.pdf
+Treatment of Varicose Veins; pel.ph.TRE.501
+  MM.06.016_Treatment_of_Varicose_Veins_022814.pdf
+  MM.06.016_Treatment_of_Varicose_Veins_070113.pdf
+  MM.06.016_Treatment_of_Varicose_Veins_070112.pdf
+3D Reconstruction; pel.aa.3DR.501
+  MM.05.001_3D_Reconstruction_082214.pdf
+  MM.05.001_3D_Reconstruction_072613.pdf
+  MM.05.001_3D_Reconstruction_102612.pdf
+  MM.05.001_3D_Reconstruction_030112.pdf
+Treatment for Hyperhidrosis; pel.ph.THO.501
+  MM.06.015_Treatment_for_Hyperhidrosis_070114.pdf
+  MM.06.015_Treatment_for_Hyperhidrosis_080113.pdf
+  MM.06.015_Thoracic_Sympathectomy_for_Hyperhidrosis_032312.pdf
+  MM.06.015_Thoracic_Sympathectomy_for_Hyperhidrosis_111101.pdf
+==========================
+
+[43,100].xml
+==========================
+Readmissions and Transfers; pel.aa.REA.401
+  MM.12.010_Readmissions_and_Transfers_071514.pdf
+  MM.12.010_Readmissions_and_Transfers_052314.pdf
+  MM.12.010_Readmissions_and_Transfers_092713.pdf
+  MM.12.010_Readmissions_and_Transfers_102612.pdf
+  MM.12.010_Readmissions_and_Transfers_010112.pdf
+Home Phototherapy for Neonatal Jaundice; pel.aa.HOM.700
+  MM.01.003_Home_Phototherapy_for_Neonatal_Jaundice_092614.pdf
+  MM.01.003_Home_Phototherapy_for_Neonatal_Jaundice_040114.pdf
+  MM.01.003_Home_Phototherapy_for_Neonatal_Jaundice_072712.pdf
+  MM.01.003_Home_Phototherapy_for_Neonatal_Jaundice_111811.pdf
+Intracellular Micronutrient Analysis; pel.aa.INT.301
+  MM.02.019_Intracellular_Micronutrient_Analysis_082214.pdf
+  MM.02.019_Intracellular_Micronutrient_Analysis_110113.pdf
+Transcutaneous Electrical Nerve Stimulation (TENS); pel.aa.TRA.501
+  MM.01.012_Transcutaneous_Electrical_Nerve_Stimulation_(TENS)_092614.pdf
+  MM.01.012_Transcutaneous_Electrical_Nerve_Stimulation_(TENS)_112213.pdf
+  MM.01.012_Transcutaneous_Electrical_Nerve_Stimulation_TENS_042712.pdf
+  MM.01.012_Transcutaneous_Electrical_Nerve_Stimulation_(TENS)_062411.pdf
+Oncotype DX; pel.aa.ONC.501
+  MM.12.009_Oncotype_DX_030114.pdf
+  MM.12.009_Oncotype_DX_040113.pdf
+  MM.12.009_Oncotype_DX_110111.pdf
+Surgical Treatment of Femoroacetabular Impingement; pel.ph.SUR.801
+  MM.06.014_Surgical_Treatment_of_Femoroacetabular_Impingement_062714.pdf
+  MM.06.014_Surgical_Treatment_of_Femoroacetabular_Impingement_120113.pdf
+  MM.06.014_Surgical_Treatment_of_Femoroacetabular_Impingement_062212.pdf
+  MM.06.014_Surgical_Treatment_of_Femoroacetabular_Impingement_062411.pdf
+Complementary and Alternative Medicine (CAM); pel.aa.COM.300
+  MM.12.013_Complementary_and_Alternative_Medicine_092614.pdf
+  MM.12.013_Complementary_and_Alternative_Medicine_010114.pdf
+==========================
+
+[44,74].xml
+==========================
+Negative Pressure Wound Therapy (NPWT); pel.aa.NEG.501
+  MM.01.005_Negative_Pressure_Wound_Therapy_(NPWT)_102513.pdf
+  MM.01.005_Negative_Pressure_Wound_Therapy_(NPWT)_030113.pdf
+  MM.01.005_Negative_Pressure_Wound_Therapy_(NPWT)_102811.pdf
+Positive Airway Pressure and Oral Devices for the Treatment of Obstructive Sleep Apnea; pel.aa.POS.201
+  MM.01.009_Positive_Airway_Pressure_and_Oral_Devices_for_the_Treatment_of_Obstructive_Sleep_Apnea_050114.pdf
+  MM.01.009_Positive_Airway_Pressure_and_Oral_Devices_for_the_Treatment_of_Obstructive_Sleep_Apnea_050113.pdf
+  MM.01.009_Positive_Airway_Pressure_and_Oral_Devices_for_the_Treatment_of_Obstructive_Sleep_Apnea_120112.pdf
+  MM.01.009_Positive_Airway_Pressure_and_Oral_Devices_for_the_Treatment_of_Obstructive_Sleep_Apnea_050112.pdf
+Alsuma; pel.ph.ALS.100x
+  CVS_Alsuma_Auto_Injector_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Alsuma_Auto_Injector_Post_Limit_Prior_Auth_122812.pdf
+  CVS_Alsuma_Auto_Injector_Post_Limit_Prior_Auth_122812.pdf
